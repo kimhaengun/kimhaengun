@@ -1,4 +1,6 @@
-### Hi there 👋
+### 단체 저장소 주소
+ - 협업 스케줄링 프로젝트 - https://github.com/DZHaruCoding
+ - 채팅 게시판 프로젝트 - https://github.com/open123chat
 
 <!--
 **kimhaengun/kimhaengun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
